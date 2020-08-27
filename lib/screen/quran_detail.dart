@@ -83,7 +83,7 @@ class _QuranDetailState extends State<QuranDetail> {
           title: Column(
             crossAxisAlignment: CrossAxisAlignment.center,
             children: <Widget>[
-              Text("DaengWeb Al-Qur'an"),
+              Text("QuranByMe Al-Qur'an"),
               Text(
                 '${data.name} - ${data.arab}',
                 style: TextStyle(fontSize: 14, color: Colors.white70),
